@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RayVivek
+- 👋 Hi, I’m Vivek Ray
 - 👀 I’m interested in AI.
 - 🌱 I’m currently learning IT.
 - 💞️ I’m looking to collaborate on some AI based project.
