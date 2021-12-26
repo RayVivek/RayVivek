@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Vivek Ray
-- 👀 I’m interested in AI.
+- 👋 Hi, I’m Vivek kumar.
 - 🌱 I’m currently learning IT.
-- 💞️ I’m looking to collaborate on some AI based project.
+- 💞️ I’m looking to collaborate on some IT based project.
 - 📫 How to reach me 8083601100vk74@gmail.com
 
 <!---
